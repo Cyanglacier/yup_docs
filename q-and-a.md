@@ -1,22 +1,31 @@
 # FAQ
 
 ### Yup Account:
+### Yup账户
 
 **Why hasn't my account been approved?**
+**我的账户为什么还没有被批准？**
 
 Your account can take up to 72 hours to be approved.
+你的账户可能需要72小时来获得批准。
 
 **How do I reset my password?**
+**我该如何重新设置密码？**
 
 Unfortunately, you cannot reset your password. However you can create a new account using another email or Twitter account and we will approve you ASAP!
+很抱歉，目前不能重置密码。不过，你可以通过其他电子邮件或推特账户来创建一个新账户，我们会尽快让你的账户获得批准！
 
 **I've been approved, but I can't login. What should I do?**
+**我的账户已被批准，但为什么我还是登陆不了？怎么办？**
 
 If you sign up with your email on [yup.io](http://yup.io) and receive approval, that only means your email has been approved. It _does not_ mean that your account has been created. To create your account, download the [Yup extension](https://chrome.google.com/webstore/detail/yup-the-opinion-layer-of/nhmeoaahigiljjdkoagafdccikgojjoi?hl=en) and use your approved email to sign up. Please contact us if you're still having trouble!
+如果你已在Yup.io上注册并收到了批准邮件，这仅代表你的邮箱地址已被批准，并不意味着你的账号已创建成功。欲创建账号，首先下载Yup浏览器插件，并使用已被批准的邮箱地址进行登录。如果仍然有问题，请和我们保持联系。
 
 **Why am I getting an "email not found" message?**
+**为什么会有“邮箱地址未找到”这个提示信息？**
 
 If you signed up on [yup.io](http://yup.io) and have been approved, _you still need to create an account_ with that email to finish sign-up. Try signing up on the extension, instead logging in.
+如果你已在Yup.io上注册并获得了批准，仍需要创建一个账户，并通过已被验证的邮件地址完成注册。请尝试通过扩展进行注册而不是直接登录。
 
 **Can I unlink my Twitter account?**
 
